@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad88601c-19aa-49f9-ac0f-f9e7d0465c64" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../InnerClassChallange/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InnerClasses4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../delete/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../delete/src/com/assem/StockItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../44.while/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../44.while/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../44.while/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../44.while/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../44.while/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../44.while/44.while.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../44.while/out/production/44.while/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../44.while/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/AbstractClasses.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/out/production/AbstractClasses/com/company/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/out/production/AbstractClasses/com/company/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/out/production/AbstractClasses/com/company/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/out/production/AbstractClasses/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/out/production/AbstractClasses/com/company/Parrot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/out/production/AbstractClasses/com/company/Penguin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/company/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/company/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/company/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/company/Parrot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses/src/com/company/Penguin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/AbstractClasses2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/out/production/AbstractClasses2/com/company/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/out/production/AbstractClasses2/com/company/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/out/production/AbstractClasses2/com/company/CanFly.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/out/production/AbstractClasses2/com/company/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/out/production/AbstractClasses2/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/out/production/AbstractClasses2/com/company/Parrot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/out/production/AbstractClasses2/com/company/Penguin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/src/com/company/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/src/com/company/Bird.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/src/com/company/CanFly.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/src/com/company/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/src/com/company/Parrot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClasses2/src/com/company/Penguin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClassesChallenge" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractClassesChallenge" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClassesChellange2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClassesChellange2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClassesChellange2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClassesChellange2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClassesChellange2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClassesChellange2/AbstractClassesChellange2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClassesChellange2/out/production/AbstractClassesChellange2/com/company/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClassesChellange2/out/production/AbstractClassesChellange2/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClassesChellange2/out/production/AbstractClassesChellange2/com/company/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClassesChellange2/src/com/company/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClassesChellange2/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractClassesChellange2/src/com/company/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayChallange/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayChallange/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayChallange/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayChallange/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayChallange/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayChallange/ArrayChallange.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayChallange/out/production/ArrayChallange/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayChallange/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallange/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallange/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallange/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallange/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallange/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallange/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallange/ArrayListChallange.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallange/out/production/ArrayListChallange/com/company/Contact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallange/out/production/ArrayListChallange/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallange/out/production/ArrayListChallange/com/company/MobilePhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallange/src/com/company/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallange/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallange/src/com/company/MobilePhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListChallangeBankAccount" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/ArrayListsGroceryList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/out/production/ArrayListsGroceryList/com/company/GroceryList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/out/production/ArrayListsGroceryList/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/src/com/company/GroceryList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayLists/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/out/production/Arrays/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing And Unboxing/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing And Unboxing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing And Unboxing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing And Unboxing/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing And Unboxing/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing And Unboxing/Autoboxing And Unboxing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing And Unboxing/out/production/Autoboxing And Unboxing/com/company/IntClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing And Unboxing/out/production/Autoboxing And Unboxing/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing And Unboxing/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing&amp;UnboxingChallange/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing&amp;UnboxingChallange/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing&amp;UnboxingChallange/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing&amp;UnboxingChallange/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing&amp;UnboxingChallange/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing&amp;UnboxingChallange/Autoboxing&amp;UnboxingChallange.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing&amp;UnboxingChallange/out/production/Autoboxing&amp;UnboxingChallange/com/company/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing&amp;UnboxingChallange/out/production/Autoboxing&amp;UnboxingChallange/com/company/Branch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing&amp;UnboxingChallange/out/production/Autoboxing&amp;UnboxingChallange/com/company/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing&amp;UnboxingChallange/out/production/Autoboxing&amp;UnboxingChallange/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing&amp;UnboxingChallange/src/com/company/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing&amp;UnboxingChallange/src/com/company/Branch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing&amp;UnboxingChallange/src/com/company/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Autoboxing&amp;UnboxingChallange/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CashRegister/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CashRegister/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CashRegister/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CashRegister/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CashRegister/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CashRegister/CashRegister.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CashRegister/out/production/CashRegister/com/company/CashRegister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CashRegister/out/production/CashRegister/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CashRegister/src/com/company/CashRegister.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CashRegister/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/Chipotle.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/out/production/Chipotle/com/company/BasicRiceBowl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/out/production/Chipotle/com/company/HealthyRiceBowl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/out/production/Chipotle/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/out/production/Chipotle/com/company/SepecialMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/src/com/company/BasicRiceBowl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/src/com/company/HealthyRiceBowl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chipotle/src/com/company/SepecialMenu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/Composition,Encapsulation, and Polymorphisim.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/out/production/Composition,Encapsulation, and Polymorphisim/com/company/Case.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/out/production/Composition,Encapsulation, and Polymorphisim/com/company/Dimensions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/out/production/Composition,Encapsulation, and Polymorphisim/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/out/production/Composition,Encapsulation, and Polymorphisim/com/company/Monitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/out/production/Composition,Encapsulation, and Polymorphisim/com/company/Motherboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/out/production/Composition,Encapsulation, and Polymorphisim/com/company/PC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/out/production/Composition,Encapsulation, and Polymorphisim/com/company/Resolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/src/com/company/Case.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/src/com/company/Dimensions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/src/com/company/Monitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/src/com/company/Motherboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/src/com/company/PC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composition,Encapsulation, and Polymorphisim/src/com/company/Resolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/CompositionChallange.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/out/production/CompositionChallange/com/company/Bed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/out/production/CompositionChallange/com/company/Ceiling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/out/production/CompositionChallange/com/company/Lamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/out/production/CompositionChallange/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/out/production/CompositionChallange/com/company/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/out/production/CompositionChallange/com/company/Wall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/src/com/company/Bed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/src/com/company/Ceiling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/src/com/company/Lamp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/src/com/company/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CompositionChallange/src/com/company/Wall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EarthQuake/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EarthQuake/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EarthQuake/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EarthQuake/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EarthQuake/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EarthQuake/EarthQuake.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EarthQuake/out/production/EarthQuake/com/company/EarthQuake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EarthQuake/out/production/EarthQuake/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EarthQuake/src/com/company/EarthQuake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EarthQuake/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/Encapsulation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/company/EnhanchedPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/out/production/Encapsulation/com/company/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/com/company/EnhanchedPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Encapsulation/src/com/company/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallange/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallange/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallange/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallange/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallange/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallange/EncapsulationChallange.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallange/out/production/EncapsulationChallange/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallange/out/production/EncapsulationChallange/com/company/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallange/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EncapsulationChallange/src/com/company/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/Generics.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/out/production/Generics/com/company/BaseballPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/out/production/Generics/com/company/FootballPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/out/production/Generics/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/out/production/Generics/com/company/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/out/production/Generics/com/company/SoccerPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/out/production/Generics/com/company/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/src/com/company/BaseballPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/src/com/company/FootballPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/src/com/company/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/src/com/company/SoccerPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics/src/com/company/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Generics2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/GenericsChellange.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/out/production/GenericsChellange/com/company/BaseballPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/out/production/GenericsChellange/com/company/FootballPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/out/production/GenericsChellange/com/company/League.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/out/production/GenericsChellange/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/out/production/GenericsChellange/com/company/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/out/production/GenericsChellange/com/company/SoccerPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/out/production/GenericsChellange/com/company/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/src/com/company/BaseballPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/src/com/company/FootballPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/src/com/company/League.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/src/com/company/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/src/com/company/SoccerPlayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GenericsChellange/src/com/company/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryList/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryList/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryList/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryList/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryList/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryList/GroceryList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryList/out/production/GroceryList/com/company/GroceryList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryList/out/production/GroceryList/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryList/src/com/company/GroceryList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GroceryList/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HACKERRANK/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HACKERRANK/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HACKERRANK/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HACKERRANK/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HACKERRANK/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HACKERRANK/HACKERRANK.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HACKERRANK/out/production/HACKERRANK/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HACKERRANK/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HighArray/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HighArray/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HighArray/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HighArray/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HighArray/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HighArray/HighArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HighArray/out/production/HighArray/com/company/HighArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HighArray/out/production/HighArray/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HighArray/src/com/company/HighArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HighArray/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImportantHard homeworks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ImportantHard homeworks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImportantHard homeworks/out/production/ImportantHard homeworks/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ImportantHard homeworks/out/production/ImportantHard homeworks/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ImportantHard homeworks/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ImportantHard homeworks/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/com/company/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/com/company/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/com/company/Fish.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/out/production/Inheritance/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/com/company/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/com/company/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/com/company/Fish.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClassChallange/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClassChallange/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses/src/com/company/GearBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses/src/com/company/GearBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerClasses4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerClasses4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/Interfaces.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/out/production/Interfaces/com/company/DestPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/out/production/Interfaces/com/company/GearBox.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/out/production/Interfaces/com/company/ITelephone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/out/production/Interfaces/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/out/production/Interfaces/com/company/MobilePhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/src/com/company/DestPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/src/com/company/GearBox.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/src/com/company/ITelephone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Interfaces/src/com/company/MobilePhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterfacesChallange/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InterfacesChallange/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InterfacesChallange/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../InterfacesChallange/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Investment/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Investment/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Investment/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Investment/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Investment/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Investment/Investment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Investment/out/production/Investment/com/company/Investment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Investment/out/production/Investment/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Investment/src/com/company/Investment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Investment/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/LinkedList.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/company/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/out/production/LinkedList/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/com/company/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallange/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallange/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallange/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallange/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallange/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallange/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallange/LinkedListChallange.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallange/out/production/LinkedListChallange/com/company/Album.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallange/out/production/LinkedListChallange/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallange/out/production/LinkedListChallange/com/company/Song.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallange/src/com/company/Album.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallange/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedListChallange/src/com/company/Song.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyPlayListChallange" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes for java/Notes for java.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/Polymorphism.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/company/Forgettable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/company/IndependenceDay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/company/Jaws.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/company/MazeRunner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/company/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/out/production/Polymorphism/com/company/StarWars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Polymorphism/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/PolymorphismChallange.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/out/production/PolymorphismChallange/com/company/BMW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/out/production/PolymorphismChallange/com/company/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/out/production/PolymorphismChallange/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/out/production/PolymorphismChallange/com/company/Mercedes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/out/production/PolymorphismChallange/com/company/Porsche.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/src/com/company/BMW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/src/com/company/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/src/com/company/Mercedes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismChallange/src/com/company/Porsche.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/ProjectOne.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/out/production/ProjectOne/com/company/BaseHamburger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/out/production/ProjectOne/com/company/DeluxBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/out/production/ProjectOne/com/company/HealthyBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/out/production/ProjectOne/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/src/com/company/BaseHamburger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/src/com/company/DeluxBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/src/com/company/HealthyBurger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectOne/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../References Types ve Value Types Arrays/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../References Types ve Value Types Arrays/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../References Types ve Value Types Arrays/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../References Types ve Value Types Arrays/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../References Types ve Value Types Arrays/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../References Types ve Value Types Arrays/References Types ve Value Types Arrays.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../References Types ve Value Types Arrays/out/production/References Types ve Value Types Arrays/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../References Types ve Value Types Arrays/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallExtercises/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallExtercises/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallExtercises/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallExtercises/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallExtercises/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallExtercises/SmallExtercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallExtercises/out/production/SmallExtercises/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SmallExtercises/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/basic.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/out/production/basic/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../basic/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/classes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/out/production/classes/com/company/BankAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/out/production/classes/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/out/production/classes/com/company/VipCustomer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/src/com/company/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../classes/src/com/company/VipCustomer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expercises/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expercises/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expercises/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expercises/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expercises/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expercises/expercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expercises/out/production/expercises/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../expercises/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceChallange/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceChallange/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceChallange/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceChallange/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceChallange/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceChallange/inheritanceChallange.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceChallange/out/production/inheritanceChallange/com/company/BMW.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceChallange/out/production/inheritanceChallange/com/company/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceChallange/out/production/inheritanceChallange/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceChallange/out/production/inheritanceChallange/com/company/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceChallange/src/com/company/BMW.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceChallange/src/com/company/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceChallange/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritanceChallange/src/com/company/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/methods.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/out/production/methods/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../methods/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/out/production/section6/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/section6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../section6/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch40/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch40/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch40/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch40/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch40/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch40/out/production/switch40/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch40/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../switch40/switch40.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-824956997">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2510" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2510" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+    <session id="-1422064309">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="39" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/assem/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="69" column="5" lean-forward="true" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/assem/Basket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-382">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/assem/StockList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-607">
+              <caret line="14" column="58" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/assem/StockItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="97">
+              <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/assem/Basket.java" />
+        <option value="$PROJECT_DIR$/src/com/assem/StockList.java" />
+        <option value="$PROJECT_DIR$/src/com/assem/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/assem/StockItem.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="5" />
+    <option name="y" value="424" />
+    <option name="width" value="1275" />
+    <option name="height" value="376" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SortedCollectionStock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SortedCollectionStock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SortedCollectionStock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SortedCollectionStock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SortedCollectionStock" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SortedCollectionStock" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="assem" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537833509318" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.assem.Main" />
+      <module name="Delete" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad88601c-19aa-49f9-ac0f-f9e7d0465c64" name="Default Changelist" comment="" />
+      <created>1537475058024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537475058024</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="5" y="424" width="1275" height="376" extended-state="0" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.14922953" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.3283582" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info active="true" anchor="right" id="Run" order="8" visible="true" weight="0.6820762" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-10.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="242" column="6" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assem/StockList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-607">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assem/Basket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-382">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assem/StockItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/assem/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="69" column="5" lean-forward="true" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Delete</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
